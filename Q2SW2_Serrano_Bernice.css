@@ -1,0 +1,48 @@
+
+table {
+   border: 2px solid;
+   width: 70%;
+   padding:5px 5px 5px;
+ border-collapse: collapse;
+}
+
+}
+th {
+  height: 70px;
+
+}
+
+table, th, td {
+  border: 3px solid;
+  text-align: center;
+  border-color: rosybrown;
+}
+
+h1{
+	text-align: center;
+	font-family: Lucida Calligraphy;
+}
+p {
+	background-color: rosybrown;
+	font-family: arial;
+
+}
+img{
+	border: 5px solid;
+	border-color: floralwhite;
+}
+a{
+	color: rosybrown;
+	background-color: black;
+}
+h5{
+	font-family: arial;
+}
+h4
+{
+	font-family: arial;
+}
+h2{
+	font-family: arial;
+	font-style: italic;
+}
